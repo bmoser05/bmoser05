@@ -1,4 +1,4 @@
-[![bmoser05's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmoser05)](https://github.com/anuraghazra/github-readme-stats)
+[![bmoser05's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmoser05&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 # Bio
 ## Bio Table Of Contents
 * [What I like to do](#what-i-like-to-do)
