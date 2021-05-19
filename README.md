@@ -4,4 +4,4 @@
 * [What I like to do](#what-i-like-to-do)
  
 ## What I like to do
-I like to program, mostly in HTML/CSS/JS. so basically Static Websites. I will be working on my website, (https://bmoser05.github.io) soon. it is going to be about my life and my programming. i'm currently working in DigitalTeal, which is available at (https://digitalteal.com). we are currently working on a PMGW (fandom) chat. Thanks for looking at my README.
+I like to program, mostly in HTML/CSS/JS. so basically Static Websites. I will be working on my website, (https://bmoser05.github.io) soon. it is going to be about my life and my programming. i'm currently working in My own coding group, Sky Coding. thanks for looking at my README.
